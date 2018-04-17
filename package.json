@@ -1,0 +1,19 @@
+{
+  "name": "glob-md2data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1056ng/glob-md2data.git"
+  },
+  "author": "AKIHIRO TOKORO (https://1056ng.jp/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1056ng/glob-md2data/issues"
+  },
+  "homepage": "https://github.com/1056ng/glob-md2data#readme"
+}
