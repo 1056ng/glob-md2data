@@ -19,5 +19,9 @@
   "dependencies": {
     "glob": "^7.1.2",
     "yaml-front-matter": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-node": "^6.0.1"
   }
 }
